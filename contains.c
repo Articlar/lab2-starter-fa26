@@ -9,8 +9,8 @@ int contains(int item, int arr[], int size)
 	return 0;
 }
 
-{
-int main()
+
+int main() {
 	int length = 20;
 	int arr[20];
 	for (int i = 0; i < length; i++)
